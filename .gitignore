@@ -1,2 +1,5 @@
 vendor
 .env
+/server.crt
+/server.csr
+/server.key

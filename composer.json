@@ -1,6 +1,7 @@
 {
     "require": {
         "amphp/aerys": "^0.7.1",
-        "vlucas/phpdotenv": "^2.4"
+        "vlucas/phpdotenv": "^2.4",
+        "larapack/dd": "^1.1"
     }
 }
